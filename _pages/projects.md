@@ -2,12 +2,14 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 3
+display_categories: 
 horizontal: false
 ---
+
+For a complete list of projects, please check out my [GitHub](https://github.com/AB20CS). Below are a few highlights:
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -34,7 +36,6 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
-
 {%- else -%}
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
