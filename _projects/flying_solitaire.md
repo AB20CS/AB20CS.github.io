@@ -2,7 +2,7 @@
 layout: page
 title: Flying Solitaire
 description: A horizontal scrolling video game
-img: assets/img/project_img/solitaire.PNG
+img: assets/img/project_img/solitaire.png
 importance: 2
 category: work
 ---

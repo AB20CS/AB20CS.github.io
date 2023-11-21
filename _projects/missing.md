@@ -2,7 +2,7 @@
 layout: page
 title: Analysis of Missing Data Algorithms
 description: An evaluation of various missing data algorithms
-img: assets/img/project_img/missing.JPG
+img: assets/img/project_img/missing.jpg
 importance: 6
 category:
 ---

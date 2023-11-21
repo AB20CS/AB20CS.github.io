@@ -2,7 +2,7 @@
 layout: page
 title: Trust Region Method for Noisy Functions
 description: Review of a State-of-the-Art Optimization Method
-img: assets/img/project_img/noisy.PNG
+img: assets/img/project_img/noisy.png
 importance: 1
 category:
 ---
