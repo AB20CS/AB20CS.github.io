@@ -1,77 +1,78 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anindro Bhattacharya",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "anindro.bhattacharya@mail.utoronto.ca",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": "",
+    "profiles": []
   },
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "url": "https://www.utoronto.ca/",
+      "area": "Computer Science & Molecular Biology, Immunology and Disease",
+      "studyType": "Honours Bachelor of Science",
+      "startDate": "2020",
+      "endDate": "2024",
+      "score": "",
+      "courses": []
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "AstraZeneca",
+      "position": "Clinical Data Science Intern",
+      "url": "https://www.astrazeneca.com/",
+      "startDate": "2022-09",
+      "endDate": "Now",
+      "summary": "Collaborating with a global team to build AI-driven solutions for clinical data management",
+      "highlights": []
+    },
+    {
+      "name": "University of Toronto",
+      "position": "Introduction to Machine Learning Teaching Assistant",
+      "url": "https://www.utoronto.ca/",
+      "startDate": "2023-01",
+      "endDate": "Now",
+      "summary": "Teaching both practical and theoretical aspects of machine learning during weekly tutorials; graded assignments and exams",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spatial organization of immunofluorescent biomarkers in bone marrow biopsies of patients with AML/MDS",
+      "url": "",
+      "startDate": "2022-01",
+      "endDate": "Now",
+      "summary": "Co-supervised by Dr. Rahul G. Krishnan and Dr. Tony Yeung",
+      "highlights": []
+    },
+    {
+      "name": "Machine learning for aid in hepatic encelopathy diagnosis",
+      "url": "https://github.com/AB20CS/HypotensionBloodPressureCalculations",
+      "startDate": "2021-01",
+      "endDate": "Now",
+      "summary": "Supervised by Dr. Chrisopher Rose",
+      "highlights": []
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      // "title": "Nobel Prize in Physics",
+      // "date": "1921-11-01",
+      // "awarder": "Royal Swedish Academy of Sciences",
+      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
-  "references": [],
-  "projects": []
+  "references": []
 }
