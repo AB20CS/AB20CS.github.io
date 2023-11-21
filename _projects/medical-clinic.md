@@ -5,7 +5,7 @@ description: An Android App To Schedule Appointments
 img: assets/img/project_img/med_1.PNG
 importance: 2
 category:
-related_publications: App Development
+related_publications:
 ---
 
 Medical Clinic is an Android app that allows patients to easily book their own appointments with a doctor that fits their preferences. Doctors are also able to log in and view their schedule and patient information as well as set their weekly availabilities.
