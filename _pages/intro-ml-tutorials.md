@@ -253,7 +253,7 @@ $$
 
 **Learning Goal:**
 1. estimate likelihood distributions  $$p(x \vert c_1)$$ and $$p(x \vert c_2)$$
-2. estimate $$P(c_1) by computing the ratio of number of elements of class 1 to the total number of elements
+2. estimate $$P(c_1)$$ by computing the ratio of number of elements of class 1 to the total number of elements
 
 We can perform classifications by comparing the posterior class (i.e., check whether $$P(c_1 \vert x) > P(c_2 \vert x)$$). Equivalently, if $$\frac{P(c_1 \vert x)}{P(c_2 \vert x)}>1$$, then $$x$$ belongs to class 1. Otherwise $$x$$ belongs to class 2.
 

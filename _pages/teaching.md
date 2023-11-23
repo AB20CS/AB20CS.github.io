@@ -9,10 +9,10 @@ nav_order: 5
 
 ### Teaching Assistant
 - [CSCC11 (Introduction to Machine Learning and Data Mining)](https://utsc.calendar.utoronto.ca/course/cscc11h3) - Winter 2023, Fall 2023
-    - Click [here](/intro-ml-tutorials) for tutorial material.
+    - **[CSCC11 Tutorial Notes](/intro-ml-tutorials)**
 
 ### Chemistry Aid Centre Director
-I have been the Director of our university’s [Chemistry Aid Centre](https://www.utsc.utoronto.ca/programs/csu/our-programs/) since my 2022 and have contributed as a tutor since my 2021. As part of this position, I lead all chemistry tutoring services on campus, serving over 1500 students each year. Before midterms and finals, I also host interactive sessions during which I review course content and work through practice problems.
+I have been the Director of our university’s [Chemistry Aid Centre](https://www.utsc.utoronto.ca/programs/csu/our-programs/) since 2022 and have contributed as a tutor since 2021. As part of this position, I lead all chemistry tutoring services on campus, serving over 1500 students each year. Before midterms and finals, I also host interactive sessions during which I review course content and work through practice problems.
 
 **Courses:**
 - [CHMA10 (Introductory Chemistry I: Structure and Bonding)](https://utsc.calendar.utoronto.ca/course/chma10h3)
