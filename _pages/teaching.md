@@ -18,4 +18,5 @@ I have been the Director of our university’s [Chemistry Aid Centre](https://ww
 - [CHMA10 (Introductory Chemistry I: Structure and Bonding)](https://utsc.calendar.utoronto.ca/course/chma10h3)
 - [CHMA11 (Introductory Chemistry II: Reactions and Mechanisms)](https://utsc.calendar.utoronto.ca/course/chma11h3)
 - [CHMB41 (Organic Chemistry I)](https://utsc.calendar.utoronto.ca/course/chmb41h3)
+- [CHMB42 (Organic Chemistry II)](https://utsc.calendar.utoronto.ca/course/chmb42h3)
 - [CHMB62 (Introduction to Biochemistry)](https://utsc.calendar.utoronto.ca/course/chmb62h3)
