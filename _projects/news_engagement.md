@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How Factors Influencing Crowd Engagement with News Differ Around the Globe
-description: CSCD25 (Advanced Data Analytics) Final Project
+description: A Computational Social Science Study
 img: assets/img/news_eng/title_cos_violin.png
 importance: 7
 category:
@@ -291,3 +291,6 @@ When analyzing the plots based on local time, a loose pattern emerges. Since the
 Through this study, we made several interesting discoveries. Contrary to our hypothesis (which had been accepted in a paper using data from a decade ago), there is no correlation between changing the title when linking an article on Reddit and activity levels on the post. This finding also underscores the importance of repeating such experiments over time. With the fast changes in the ways information is spread due to technology, the behaviours of users are also shifting. By repeating experiments, we can stay up-to-date on the current state of human behaviour as it relates to engagement with the news. We also discovered that in Europe and Australia, posts with higher activity link to articles with more negative sentiment than articles linked to by lower activity posts (which aligns with our hypothesis). This trend was not observed in r/canadanews and r/usnews, suggesting differences in the factors influencing news popularity among regions. Lastly, our study uncovered patterns which potentially imply that the local time at which posts are made have an influence on the level of activity on the post. 
 
 In future studies, in order to verify if these results generalize to a broader scope, similar methodologies should be applied to more news subreddits as well as other social media platforms on which news is shared.
+
+## Code Availability
+The Jupyter notebook with all of the above analyses can be found in the [GitHub repository](https://github.com/AB20CS/RedditNewsEngagement) for this project.
